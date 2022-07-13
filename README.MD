@@ -1,6 +1,6 @@
 # LẬP TRÌNH ỨNG DỤNG JAVA - ĐỒ ÁN 1
 
--   20424056 - Nguyễn Thế Ngọc
+-   Nguyễn Thế Ngọc
 
 # YÊU CẦU ĐỒ ÁN MINI 1
 
